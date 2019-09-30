@@ -1,8 +1,11 @@
 # fingerprint score server
 # steps
-- git clone https://github.com/typelogic.com/nfiq2score.git
-- cd nfiq2store/
-- Docker build -t nfiq2image .
+
+```bash
+$ git clone https://github.com/typelogic.com/nfiq2score.git
+$ cd nfiq2store/
+$ docker build -t nfiq2image .
+```
 
 # Usage
 - Create the image (https://asciinema.org/a/oQtQj7ZSHHjU8vrG08RX89edy)
